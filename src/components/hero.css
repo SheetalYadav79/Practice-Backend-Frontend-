@@ -1,0 +1,21 @@
+.input-box{
+    height: 40px;
+    width: 400px;
+    border: 1px solid rgb(40, 184, 241);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 0 20px;
+    font-size: 20px;
+}
+.submit-button{
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: rgb(46, 46, 211);
+    border-radius: 10px;
+}
+.user-details{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
